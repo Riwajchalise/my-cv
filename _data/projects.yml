@@ -1,14 +1,14 @@
-intro: "Nothing that great but i have done a couple of projects that might count."
+intro: "Nothing that great but I have done a couple of projects that might count."
 projects:
   - project:
     title: Mero-Luga
     link: "#hook"
-    tagline: "This was a project on HTML and CSS during the freshman year of my college."
+    tagline: "A website template to buy online self designed t-shirt. This was a project on HTML and CSS during the freshman year of my college."
   - project:
-    title: Fast-food Website
+    title: Fast-Food Website
     link: "#"
     tagline: "A responsive bootstrap and php website template designed to order fastfood in fastfood restaurents which by the way is incomplete because there was no motivation to complete the website."
   - project:
-    title: blockchain concept
+    title: Blockchain Concept
     link: "https://github.com/Riwajchalise/blockchain_concept_python"
-    tagline: "I don't think this counts as a project but to apply my freshly acquired knowledge on python programming language I made a notebook to make people understand basics blockchain technology."
+    tagline: "I don't think this counts as a project but to apply my freshly acquired knowledge on python programming language I made a notebook to might help people understand basics blockchain technology. Here is the link https://github.com/Riwajchalise/blockchain_concept_python"
