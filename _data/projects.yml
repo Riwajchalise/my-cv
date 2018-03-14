@@ -1,23 +1,14 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Nothing that great but i have done a couple of projects that might count."
 projects:
   - project:
-    title: Velocity
+    title: Mero-Luga
     link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "This was a project on HTML and CSS during the freshman year of my college."
   - project:
-    title: DevStudio
+    title: Fast-food Website
     link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    tagline: "A responsive bootstrap and php website template designed to order fastfood in fastfood restaurents which by the way is incomplete because there was no motivation to complete the website."
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-  - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-  - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: blockchain concept
+    link: "https://github.com/Riwajchalise/blockchain_concept_python"
+    tagline: "I don't think this counts as a project but to apply my freshly acquired knowledge on python programming language I made a notebook to make people understand basics blockchain technology."
