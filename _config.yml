@@ -6,7 +6,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
-#style: styles-2
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -17,7 +17,7 @@ about: True # set to False or comment line if you want to remove the "How to use
 name: Riwaj Chalise
 tagline: Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am a student of computer science at Deerwalk Institute of Technology'
+summary: 'I am a student of computer science at Deerwalk Institute of Technology.'
 
 #sidebar links
 email: riwaj.chalise@deerwalk.edu.np
