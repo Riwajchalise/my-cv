@@ -1,6 +1,9 @@
 - skill:
-  name: Python & Django
-  level: 50%
+  name: Python 
+  level: 65%
+- skill:
+  name: Wordpress
+  level: 70%
 - skill:
   name: HTML5 & CSS
   level: 70%
