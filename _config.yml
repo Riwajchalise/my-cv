@@ -17,7 +17,8 @@ style: styles-2
 name: Riwaj Chalise
 tagline: Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am a student of computer science at Deerwalk Institute of Technology.'
+summary: 'I am a student of computer science at Deerwalk Institute of Technology. Currently I am at the sophomore year.'<br> 
+          'Other then computer science I enjoy learning about philosophy on justice and politics.'
 
 #sidebar links
 email: riwaj.chalise@deerwalk.edu.np
