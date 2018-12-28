@@ -1,18 +1,19 @@
-- interest:
-  item: Computer Gaming
-  link:
-- interest:
-  item: Surfing Youtube
-  link:
+
 - interest:
   item: Hiking
   link: http://www.everestuncensored.org/hikerinfo/Riwaj-Chalise/
 - interest:
+  item: Computer Gaming
+  link:  "#"
+- interest:
+  item: Surfing Youtube
+  link:  "#"
+- interest:  
   item: Public speaking
-  link:
+  link:  "#"
 - interest:
   item: Football
-  link:
+  link:  "#"
 - interest:
   item: Cycling
-  link:
+  link:  "#"
