@@ -17,13 +17,13 @@ style: styles-2
 name: Riwaj Chalise
 tagline: Developer
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am a student of computer science at Deerwalk Institute of Technology. Currently I am in my sophomore year. Other than computer science I enjoy learning about philosophy on justice and politics.'
+summary: 'I am a student of computer science at Deerwalk Institute of Technology. Currently I am in my Junior(third) year. Other than computer science I enjoy learning about political and phiosophical reasoning.'
 
 #sidebar links
 email: riwaj.chalise@deerwalk.edu.np
 email: wazzree@gmail.com
-phone: 984-00-15777
-website: http://ktmaniac.blogspot.com #do not add http://
+phone: 9840015777
+website: ktmaniac.blogspot.com #do not add http://
 linkedin: riwajchalise
 github: Riwajchalise
 twitter: '@riwajchaliseoff'
