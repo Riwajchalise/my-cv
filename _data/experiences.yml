@@ -2,19 +2,43 @@
   role: Django Developer(freelancer)
   time: 2018 March - May
   company: Selcouth, California, USA
-  details: "I worked as a freeleancer along with one of my friend to make a small scale search website that was used to search product"
+  details: "Worked as a freelancer for a B2B startup. Here I worked in a team project to make a search engine prototype. REFRENCE:- sambhabthapaliya@gmail.com "
 
 - experience:
-  role: Data Entry Clark
+  role: Web-Dev (Freelancer)
+  time: 2019 March
+  company: NAWHRD, Kathmandu
+  details: "Built a website for the organization."
+
+  - experience:
+  role: Web-Dev (Freelancer)
+  time: 2019 June
+  company: Thoughts For Superb Living, Kathmandu
+  details: "Built a website for the organization."
+
+- experience:
+  role: Web-Dev (Internship)
+  time: 2019 Feb - March
+  company: Policy Nepal, Kathmandu
+  details: "Worked as a web-developement intern. Here, I used react as the major tool for web developement."
+
+- experience:
+  role: Participant
+  time: 2019 Feb - March
+  company: Everest-Hack,Nami College, Kathmandu
+  details: "This is one of the biggest hackthon in Nepal. Here I along with my team build an app. The detils can be found in the official repo of the hackthon"
+
+- experience:
+  role: Data Entry
   time: 2017 - 2018
   company: Cloud Factory, Nepal
-  details: "It whe not the best job on earth but with this job I made some pocket money. The best part of this job was that I can do my work whenever and wherever I want, if there was an internet connection and my laptop."
+  details: "It was an online job where I digitized data."
 
 - experience:
   role: Club-Member 
   time: 2018 - 2019
   company: DWIT Hiking Club
-  details: "DWIT Hiking Club is a college club that conducts outdoor and hiking activities. I enjoy coordinating hikes organized by the club."
+  details: "DWIT Hiking Club is a college club that conducts outdoor and hiking activities. The club taught me to take initaive and most of my job here was to write reports about hikes and coordinate and organize hikes for college students and staffs."
 
 - experience:
   role: Club-Member 

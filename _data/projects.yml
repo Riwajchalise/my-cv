@@ -1,14 +1,16 @@
-intro: "Nothing that great but I have done a couple of projects that might count."
+intro: "Following are the list of projet "
 projects:
   - project:
+    title: Selcouth
+    link: "#"
+    tagline: "A B2B search engine prototype built for a start up company. This prototype was used by the startup to pitch their idea for their potential investors. The project was built using Django as a framework. This project taught me how a search enging works and the importance of we scraping"
+  
+  - project:
     title: Mero-Luga
-    link: "#hook"
+    link: "#"
     tagline: "A website template to buy online self designed t-shirt. This was a project on HTML and CSS that I worked on during the freshman year of my college."
+  
   - project:
     title: Fast-Food Website
     link: "#"
-    tagline: "A responsive bootstrap and php website template designed to order fastfood in fastfood restaurents which by the way is incomplete because there was no motivation to complete the website."
-  - project:
-    title: Blockchain Concept
-    link: "https://github.com/Riwajchalise/blockchain_concept_python"
-    tagline: "I don't think this counts as a project but to apply my freshly acquired knowledge on python programming language I made a notebook that might help people understand basics blockchain technology."
+    tagline: "A responsive bootstrap and php website designed to order fastfood in fastfood restaurents."

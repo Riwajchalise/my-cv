@@ -11,14 +11,14 @@
   name: PHP
   level: 30% 
 - skill:
-  name: Sony Vegas
-  level: 75%
+  name: Django
+  level: 55%
 - skill:
-  name: Photoshop
-  level: 60%
+  name: react.js
+  level: 40%
 - skill:
-  name: Javascript & jQuery
-  level: 0%
+  name: Javascript 
+  level: 80%
 - skill:
   name: Angular
   level: 0%
