@@ -1,38 +1,26 @@
 - experience:
-  role: Django Developer(freelancer)
+  role: Django Developer(Outsourced Developer, Freelancer)
   time: 2018 March - May
   company: Selcouth, California, USA
   details: "Worked as a freelancer for a B2B startup. Here I worked in a team project to make a search engine prototype. REFRENCE:- sambhabthapaliya@gmail.com "
 
 - experience:
-  role: Web-Dev (Freelancer)
-  time: 2019 March
-  company: NAWHRD, Kathmandu
-  details: "Built a website for the organization."
-
-  - experience:
-  role: Web-Dev (Freelancer)
-  time: 2019 June
-  company: Thoughts For Superb Living, Kathmandu
-  details: "Built a website for the organization."
-
-- experience:
-  role: Web-Dev (Internship)
+  role: React js (Internship)
   time: 2019 Feb - March
   company: Policy Nepal, Kathmandu
   details: "Worked as a web-developement intern. Here, I used react as the major tool for web developement."
 
 - experience:
-  role: Participant
+  role: Wordpress Developer
+  time: 2019 March - Now
+  company: Freelance
+  details: "I have used wordpress to build websites as a freelancer.The name of organizations that I have worked for are NAWHRD and Thoughts For Superb Living"
+
+- experience:
+  role: Hackthon Participant
   time: 2019 Feb - March
   company: Everest-Hack,Nami College, Kathmandu
   details: "This is one of the biggest hackthon in Nepal. Here I along with my team build an app. The detils can be found in the official repo of the hackthon"
-
-- experience:
-  role: Data Entry
-  time: 2017 - 2018
-  company: Cloud Factory, Nepal
-  details: "It was an online job where I digitized data."
 
 - experience:
   role: Club-Member 

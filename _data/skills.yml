@@ -1,24 +1,27 @@
 - skill:
-  name: Python 
-  level: 65%
+  name: Javascript 
+  level: 80%
+
 - skill:
   name: Wordpress
   level: 70%
+
 - skill:
   name: HTML5 & CSS
   level: 70%
+
 - skill:
-  name: PHP
-  level: 30% 
+  name: Python 
+  level: 65%
+
 - skill:
   name: Django
   level: 55%
+  
 - skill:
-  name: react.js
-  level: 40%
-- skill:
-  name: Javascript 
-  level: 80%
+  name: PHP
+  level: 30% 
+
 - skill:
   name: Angular
   level: 0%

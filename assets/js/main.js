@@ -1,3 +1,11 @@
+function openForm() {
+    document.getElementById("myForm").style.display = "block";
+  }
+  
+  function closeForm() {
+    document.getElementById("myForm").style.display = "none";
+  }
+
 jQuery(document).ready(function($) {
 
     $('.level-bar-inner').css('width', '0');

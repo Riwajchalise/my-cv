@@ -1,16 +1,16 @@
-intro: "Following are the list of projet "
+intro: "Following are the list of projects "
+
 projects:
+  - project:
+    title: Tomato Timer
+    link: "timer.riwajchalise.com.np"
+    tagline: "A simple Pomodoro app to increase productivity. Click the title to see the project."
+  
   - project:
     title: Selcouth
     link: "#"
-    tagline: "A B2B search engine prototype built for a start up company. This prototype was used by the startup to pitch their idea for their potential investors. The project was built using Django as a framework. This project taught me how a search enging works and the importance of we scraping"
+    tagline: "A B2B search engine prototype built for a start up company. This prototype was used by the startup to pitch their idea for their potential investors."
+
   
-  - project:
-    title: Mero-Luga
-    link: "#"
-    tagline: "A website template to buy online self designed t-shirt. This was a project on HTML and CSS that I worked on during the freshman year of my college."
+
   
-  - project:
-    title: Fast-Food Website
-    link: "#"
-    tagline: "A responsive bootstrap and php website designed to order fastfood in fastfood restaurents."
