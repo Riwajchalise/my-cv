@@ -1,16 +1,15 @@
-intro: "Following are the list of projects "
+intro: "Following are the list of my projects "
 
 projects:
   - project:
     title: Tomato Timer
-    link: "timer.riwajchalise.com.np"
-    tagline: "A simple Pomodoro app to increase productivity. Click the title to see the project."
+    link: https://timer.riwajchalise.com.np/
+    tagline: "A simple Pomodoro app to increase work productivity. Click the title to see the project."
   
   - project:
     title: Selcouth
-    link: "#"
+    link: https://bitbucket.org/sampleprojselcouth/sample/src/master/
     tagline: "A B2B search engine prototype built for a start up company. This prototype was used by the startup to pitch their idea for their potential investors."
-
   
 
   
