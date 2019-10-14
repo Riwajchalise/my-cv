@@ -24,13 +24,12 @@ body {
   padding: 16px 20px;
   border: none;
   cursor: pointer;
-  opacity: 0.8;
+  opacity: 1;
   position: fixed;
-  bottom: 23px;
-  right: 28px;
+  bottom: 3px;
+  right: 0;
   width: 280px;
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.4), 0 6px 20px 0 rgba(0,0,0,0.19);
-
 }
 
 .open-button:hover {
@@ -42,7 +41,7 @@ body {
   display: none;
   position: fixed;
   bottom: 0;
-  right: 15px;
+  right: 0px;
   border: 3px solid #f1f1f1;
   z-index: 9;
 }
@@ -133,7 +132,7 @@ p {
 }
 .wrapper {
   background: #4CAC9D;
-  max-width: 1000px;
+  max-width: 60%;
   margin: 0 auto;
   position: relative;
   -webkit-box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);

@@ -11,30 +11,9 @@ layout: compress
   {% include head.html %}
 
   <body>
-    <button class="open-button" onclick="openForm()"><b>Contact Riwaj<b></b></button>
-
-    <div class="form-popup" id="myForm">
-      <form action="https://formspree.io/mjnbdrrm" method="POST" class="form-container">
-        <h1>Contact me</h1>
-
-        <label for="name"><b>Name</b></label>
-        <input type="text" placeholder="Enter name" name="name" required />
-
-        <label for="email"><b>Email</b></label>
-        <input type="text" placeholder="Enter Email" name="_replyto" required />
-
-        <label for="message">Your message:</label>
-          <textarea type="text" placeholder="Your message"  name="message" ></textarea>
-
-          <button type="submit" class="btn">Send</button>
-
-        <button type="button" class="btn cancel" onclick="closeForm()">
-          Close
-        </button>
-      </form>
-    </div>
 
     <div class="wrapper">
+
       {% include sidebar.html %}
 
       <div class="main-wrapper">
@@ -42,6 +21,31 @@ layout: compress
       </div>
       <!--//main-body-->
     </div>
+
+    <div> 
+        <button class="open-button" onclick="openForm()"><b>Contact Riwaj<b></b></button>
+  
+        <div class="form-popup" id="myForm">
+          <form action="https://formspree.io/mjnbdrrm" method="POST" class="form-container">
+            <h1>Contact me</h1>
+    
+            <label for="name"><b>Name</b></label>
+            <input type="text" placeholder="Enter name" name="name" required />
+    
+            <label for="email"><b>Email</b></label>
+            <input type="text" placeholder="Enter Email" name="_replyto" required />
+    
+            <label for="message">Your message:</label>
+              <textarea type="text" placeholder="Your message"  name="message" ></textarea>
+    
+              <button type="submit" class="btn">Send</button>
+    
+            <button type="button" class="btn cancel" onclick="closeForm()">
+              Close
+            </button>
+          </form>
+        </div>
+      </div>
 
     {% include footer.html %} {% include scripts.html %}
   </body>
