@@ -1,4 +1,8 @@
 - skill:
+  name: PHP
+  level: 80%
+
+- skill:
   name: Javascript 
   level: 80%
 
@@ -15,12 +19,12 @@
   level: 65%
 
 - skill:
-  name: Django
-  level: 55%
-  
+  name: Laravel
+  level: 40% 
+
 - skill:
-  name: PHP
-  level: 30% 
+  name: Django
+  level: 55% 
 
 - skill:
   name: Angular
