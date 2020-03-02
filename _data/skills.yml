@@ -1,32 +1,32 @@
 - skill:
   name: PHP
-  level: 80%
+  level: 50%
 
 - skill:
   name: Javascript 
-  level: 80%
+  level: 50%
 
 - skill:
   name: Wordpress
-  level: 70%
+  level: 50%
 
 - skill:
   name: HTML5 & CSS
-  level: 70%
+  level: 50%
 
 - skill:
   name: Python 
-  level: 65%
+  level: 50%
 
 - skill:
   name: Laravel
-  level: 40% 
+  level: 50% 
 
 - skill:
   name: Django
-  level: 55% 
+  level: 50% 
 
 - skill:
   name: Angular
-  level: 0%
+  level: 50%
 
