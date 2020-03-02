@@ -2,26 +2,25 @@
   role: Php Instructor
   time: 2019 Oct - Now
   company: Deerwalk Sifal School (DSS), Sifal, Kathmandu
-  details: "I am working as a PHP instructor for high school students. PHP is a server site scripting language that is used to make websites.<b> REFRENCE:- bijay.shrestha@deerwalk.edu.np </b>"
-
+  details: "I am working as a PHP instructor for high school students. PHP is a server site scripting language that is popular for backend developement.<b> REFRENCE:- bijay.shrestha@deerwalk.edu.np </b>"
 
 - experience:
-  role: Django Developer(Outsourced Developer, Freelancer)
+  role: Django Developer(Outsourced Developer, Contract)
   time: 2018 March - May
   company: Selcouth, California, USA
   details: "Worked as a freelancer for a B2B startup. Here I worked in a team project to make a search engine prototype. <b> REFRENCE:- sambhabthapaliya@gmail.com </b>"
 
 - experience:
-  role: Php (Web-Dev, Freelancer)
-  time: 2019 Feb
+  role: Django Developer (Web-Dev, Freelancer)
+  time: 2019 Feb - March
   company: MCFCN, Kathmandu
-  details: "Developed a website for MCFCN. MCFCN is a Nepali fanclub for Manchester City football club. We Used PHP for backend and HTML CSS and JS for frontend. <b> REFRENCE:- 98510792666, Sijan Pokharel</b>"
+  details: "Developed a website for MCFCN. MCFCN is a Nepali fanclub for Manchester City football club. This project was done on Django framework. <b> REFRENCE:- 98510792666, Sijan Pokharel</b>"
 
 - experience:
-  role: React js, Php, Laravel (Intern)
+  role: React js (Intern/Trainee)
   time: 2019 Feb - Oct
-  company: Policy Nepal, Kathmandu
-  details: "Worked as a web-developement intern. Here, I used react as the major tool for UI/UX Developement. Besides, I also used MySQL and php for backend developement."
+  company: Policy Nepal, Baneshwor, Kathmandu
+  details: "Worked as a UI/UX Intern/Trainee and assisted senior developers."
 
 - experience:
   role: Wordpress Developer
@@ -34,6 +33,12 @@
   time: 2019 July 19 - 21
   company: Everest-Hack,Nami College, Kathmandu
   details: "This is one of the biggest hackthon in Nepal. Here I along with my team build an app to solve the admission difficuilty face by students parents and institiutions before the start of each academic year. The details can be found in the official repo of the Everest hackthon."
+
+- experience:
+  role: Club-Member/ Ass. Secretary
+  time: 2019 - now
+  company: Toastmasters International
+  details: "Toastmasters International is a non-profit educational organization that teaches public speaking and leadership skills through a worldwide network of clubs. Headquartered in Englewood, Colo."
 
 - experience:
   role: Club-Member
